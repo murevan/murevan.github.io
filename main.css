@@ -1,17 +1,25 @@
  body {
     background-color: dimgrey;
+    font-family: sans-serif;
 }
-
 h1{
-            color: lawngreen;
-        }
+    color: lawngreen;
+    text-align: center;
+}
 p{
-            color: lawngreen;
-        }
+    color: lawngreen;
+}
 h2{
-            color: lawngreen;
-        }
+    color: lawngreen;
+}
 p2{
-            color:lawngreen;
-        }
-
+    color:lawngreen;
+}
+.link_button {
+    border-color: lawngreen;
+    background-color: lawngreen;
+    text-align: center;
+    display: inline-block;
+    padding: 1em;
+    border-radius: 0.1em;
+}
