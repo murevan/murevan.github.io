@@ -23,3 +23,21 @@ p2{
     padding: 1em;
     border-radius: 0.1em;
 }
+.banner_image {
+    box-shadow: 3px 3px 5px grey;
+    width:604px;
+    height:328px;
+}
+
+.game_description {
+    font-size: 1.5em;
+    display: block;
+    margin: 0 auto;
+    color: lawngreen;
+    text-align: center;
+    background-color: brown;
+    border-color: brown;
+    border-radius: 1em;
+    padding: 2em;
+    max-width: 50%;
+}
