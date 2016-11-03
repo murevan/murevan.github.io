@@ -25,12 +25,13 @@ p2{
 }
 .banner_image {
     box-shadow: 3px 3px 5px grey;
-    width:604px;
-    height:328px;
+    width: 50vw;
+    height: 30vw;
 }
 
 .game_description {
-    font-size: 1.5em;
+    font-size: 1.5em;\
+    word-wrap: normal;
     display: block;
     margin: 0 auto;
     color: lawngreen;
@@ -39,7 +40,7 @@ p2{
     border-color: brown;
     border-radius: 1em;
     padding: 2em;
-    width: 700px;
+    width: 90vw;
 }
 
 @media (min-width: 480px) {
