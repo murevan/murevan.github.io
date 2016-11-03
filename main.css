@@ -41,3 +41,11 @@ p2{
     padding: 2em;
     width: 700px;
 }
+
+@media (min-width: 480px) {
+    img {
+        
+    }
+    
+    
+}
