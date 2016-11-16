@@ -1,7 +1,4 @@
- body {
-    background-color: dimgrey;
-    font-family: sans-serif;
-}
+ 
 h1{
     color: lawngreen;
     text-align: center;
@@ -26,7 +23,7 @@ p2{
 .banner_image {
     box-shadow: 3px 3px 5px grey;
     width: 50vw;
-    height: 30vw;
+    height: 30v;
 }
 
 .game_description {
@@ -41,4 +38,30 @@ p2{
     border-radius: 1em;
     padding: 2em;
     width: 90vw;
+}
+    
+.banana_image {
+    width: 50vw;
+    height: 30v;
+}
+    
+    @media only screen and (max-width: 3000px) {
+    body {
+        background-color: dimgrey;
+    }       
+}
+}
 
+
+
+    
+
+
+
+@media only screen and (max-width: 1700px) {
+    body {
+        background-image:image (infinite);
+}
+
+    
+    
