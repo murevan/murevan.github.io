@@ -63,5 +63,12 @@ p2{
 }
 }
 
+
+@media only screen and (max-width: 1500px) {
+    body {
+        background-image:url('images/infinite gameboy.gif');
+}
+}
+
     
     
