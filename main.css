@@ -45,24 +45,23 @@ p2{
     height: 30v;
 }
     
-    {@media only screen and (max-width: 3000px) {
+   
+
+@media only screen and (max-width: 3000px) {
     body {
         background-color: dimgray;
-    }       
+    }
 }
-}
-
-
 
     
 
 
 
-{@media only screen and (max-width: 1500px) {
+@media only screen and (max-width: 1500px) {
     body {
         background-image:url('images/infinite gameboy.gif');
 }
 }
-}
+
     
     
